@@ -1,4 +1,8 @@
 #!/usr/bin/python
+#Eros Gonzalez-Lopez
+#Brian Martinez
+#CST311
+#File: legacy_router.py
 
 from mininet.net import Mininet
 from mininet.node import Controller, RemoteController, OVSController
